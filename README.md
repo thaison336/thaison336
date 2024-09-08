@@ -4,7 +4,7 @@
 **thaison336/thaison336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Uploading 59304.jpg…]()
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![59304](https://github.com/user-attachments/assets/d10282b6-a0e0-41e9-a3fc-425f5d4b797c)
