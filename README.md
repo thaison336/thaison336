@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is the first time I use Github. Hopefully the journey will be interesting
-![59304](https://github.com/user-attachments/assets/d10282b6-a0e0-41e9-a3fc-425f5d4b797c)
