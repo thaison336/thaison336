@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is the first time I use Github. Hopefully the journey will be interesting
+I'm an undergraduate student in Computer Engineering, VNU-HCMUT.
+Contact: nguyenthaison25052005@gmail.com
